@@ -1,3 +1,0 @@
-userName =  'njewwc'
-
-password = 'password'
